@@ -1,3 +1,3 @@
-opencv-python
+opencv-python-headless
 imgbeddings
 psycopg2-binary
